@@ -5,7 +5,7 @@
 - 🔭 I’m currently working in personal side jobs to increase my knowledge.
 
 
-- 📫 How to reach me **cabanesmartinezjoaquim@gmail.com**
+- 📫 How to reach me **ximocabanes02@gmail.com**
 
   
 
