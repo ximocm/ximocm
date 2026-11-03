@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm ximo</h1>
-<h3 align="center">I'm currently studying computer enginieering</h3>
+<h3 align="center">I'm a software engineer studying bioinformatics</h3>
 
 
 - 🔭 I’m currently working in personal side jobs to increase my knowledge.
