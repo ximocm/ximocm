@@ -2,9 +2,9 @@
 
 # Hi, I'm Ximo 👋
 
-**Software Engineer · Full-Stack & Desktop Development · Scientific Software**
+**Software Engineer · Life Sciences & Bioinformatics · AI & Scientific Software**
 
-I build software tools and enjoy working at the intersection of engineering and life sciences.
+I develop software at the intersection of engineering, life sciences, and artificial intelligence.
 
 [LinkedIn](https://www.linkedin.com/in/joaquim-cabanes-martinez-b839831b2/) · [Email](mailto:ximocabanes02@gmail.com)
 
@@ -12,33 +12,35 @@ I build software tools and enjoy working at the intersection of engineering and 
 
 ## About me
 
-- 💻 **Software Developer at Biotechvana**, working in the biotechnology and bioinformatics sector.
-- 🎓 **Computer Science Engineering graduate** from the Universitat de València (2025).
-- 🧬 Currently pursuing a **Master's degree in Bioinformatics** at the Universitat de València (2025–2027).
-- 🔧 Interested in **software engineering, desktop applications, scientific workflows, and applied AI**.
-- 🛠️ I use personal projects to explore technologies and turn ideas into working software.
+I'm a **Software Developer at Biotechvana**, where I build **Laravel-based web applications** for managing **bioinformatics pipelines, laboratory workflows, and biological samples**. I also develop **LLM-powered chatbots and AI agents**.
+
+I graduated in **Computer Science Engineering** from the Universitat de València in 2025 and I'm currently pursuing a **Master's degree in Bioinformatics** (2025–2027).
+
+I'm particularly interested in applying software engineering to scientific problems. Outside work, I build projects involving **desktop applications, scientific workflows, and computational biology**—exploring different technologies and turning ideas into practical tools.
 
 ## Featured projects
 
 | Project | What it does | Technologies |
 | --- | --- | --- |
-| **[Open Pipeline Manager](https://github.com/ximocm/OpenPipelineManager)** | Native desktop application for visually designing, validating, and running local computational workflows. Includes reusable tools, dependency checks, execution logs, and project management. | Rust · GTK4 · Cairo |
-| **[minmark](https://github.com/ximocm/minmark)** | Local-first Markdown editor with visual editing, project navigation, academic references, and PDF export. | Rust · GTK4 · WebKitGTK |
-| **[parallel-kmer-analyzer](https://github.com/ximocm/parallel-kmer-analyzer)** | Tools for comparing genomic sequences using k-mers, including MPI-based parallel processing of phage–host comparisons. | C · MPI |
+| **[Open Pipeline Manager](https://github.com/ximocm/OpenPipelineManager)** | Native desktop application for visually designing, validating, and executing local computational workflows, with dependency checks and execution logs. | Rust · GTK4 · Cairo |
+| **[minmark](https://github.com/ximocm/minmark)** | Local-first Markdown editor featuring visual editing, project navigation, academic references, and PDF export. | Rust · GTK4 · WebKitGTK |
+| **[parallel-kmer-analyzer](https://github.com/ximocm/parallel-kmer-analyzer)** | Genomic sequence analysis tools using k-mers, including MPI-based parallel phage–host comparisons. | C · MPI |
 
-**Also exploring:** [OPM Registry](https://github.com/ximocm/opm-registry), a collection of reusable tool definitions and example bioinformatics pipelines for Open Pipeline Manager.
+See also **[OPM Registry](https://github.com/ximocm/opm-registry)**, a collection of reusable tool definitions and example bioinformatics pipelines for Open Pipeline Manager.
 
-## Technologies I've worked with
+## Technologies
 
-- **Languages:** Rust, C, C++, Python, Java, JavaScript, PHP
-- **UI & web:** GTK4, WebKitGTK, HTML, CSS, Laravel
-- **Tools & platforms:** Git, Linux, Docker, MySQL / MariaDB
+- **Professional web development:** PHP, Laravel; applications for bioinformatics pipeline, laboratory, and sample management
+- **AI development:** LLM-powered chatbots and AI agents
+- **Other programming languages:** Rust, C, C++, Python, Java, JavaScript
+- **Desktop and web:** GTK4, WebKitGTK, HTML, CSS
+- **Tools and platforms:** Git, Linux, Docker, MySQL / MariaDB
 
-I'm always learning, and this list reflects technologies I've used—not a claim of equal proficiency in all of them.
+These are technologies I've worked with across professional, academic, and personal projects; my experience level varies by tool.
 
-## Let's connect
+## Connect
 
-I enjoy discussing software engineering, scientific computing, and tools that make complex workflows easier to use.
+I'm interested in **software engineering, applied AI, scientific software, and bioinformatics**.
 
 - **LinkedIn:** [Joaquim Cabanes Martinez](https://www.linkedin.com/in/joaquim-cabanes-martinez-b839831b2/)
 - **Email:** [ximocabanes02@gmail.com](mailto:ximocabanes02@gmail.com)
