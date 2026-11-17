@@ -1,16 +1,48 @@
-<h1 align="center">Hi there👋, I'm ximo</h1>
-<h3 align="center">I'm a software engineer studying bioinformatics</h3>
+<div align="center">
 
+# Hi, I'm Ximo 👋
 
-- 🔭 I’m currently working in personal side jobs to increase my knowledge.
+**Software Engineer · Full-Stack & Desktop Development · Scientific Software**
 
+I build software tools and enjoy working at the intersection of engineering and life sciences.
 
-- 📫 How to reach me **ximocabanes02@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/joaquim-cabanes-martinez-b839831b2/) · [Email](mailto:ximocabanes02@gmail.com)
 
-  
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="cplusplus" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="cplusplus" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="cplusplus" width="40" height="40"/>  </a>
+## About me
 
+- 💻 **Software Developer at Biotechvana**, working in the biotechnology and bioinformatics sector.
+- 🎓 **Computer Science Engineering graduate** from the Universitat de València (2025).
+- 🧬 Currently pursuing a **Master's degree in Bioinformatics** at the Universitat de València (2025–2027).
+- 🔧 Interested in **software engineering, desktop applications, scientific workflows, and applied AI**.
+- 🛠️ I use personal projects to explore technologies and turn ideas into working software.
 
-Profile picture by: dacyluna
+## Featured projects
+
+| Project | What it does | Technologies |
+| --- | --- | --- |
+| **[Open Pipeline Manager](https://github.com/ximocm/OpenPipelineManager)** | Native desktop application for visually designing, validating, and running local computational workflows. Includes reusable tools, dependency checks, execution logs, and project management. | Rust · GTK4 · Cairo |
+| **[minmark](https://github.com/ximocm/minmark)** | Local-first Markdown editor with visual editing, project navigation, academic references, and PDF export. | Rust · GTK4 · WebKitGTK |
+| **[parallel-kmer-analyzer](https://github.com/ximocm/parallel-kmer-analyzer)** | Tools for comparing genomic sequences using k-mers, including MPI-based parallel processing of phage–host comparisons. | C · MPI |
+
+**Also exploring:** [OPM Registry](https://github.com/ximocm/opm-registry), a collection of reusable tool definitions and example bioinformatics pipelines for Open Pipeline Manager.
+
+## Technologies I've worked with
+
+- **Languages:** Rust, C, C++, Python, Java, JavaScript, PHP
+- **UI & web:** GTK4, WebKitGTK, HTML, CSS, Laravel
+- **Tools & platforms:** Git, Linux, Docker, MySQL / MariaDB
+
+I'm always learning, and this list reflects technologies I've used—not a claim of equal proficiency in all of them.
+
+## Let's connect
+
+I enjoy discussing software engineering, scientific computing, and tools that make complex workflows easier to use.
+
+- **LinkedIn:** [Joaquim Cabanes Martinez](https://www.linkedin.com/in/joaquim-cabanes-martinez-b839831b2/)
+- **Email:** [ximocabanes02@gmail.com](mailto:ximocabanes02@gmail.com)
+
+---
+
+<sub>Profile picture by dacyluna.</sub>
